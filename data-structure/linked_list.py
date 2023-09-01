@@ -9,6 +9,8 @@ Operation that we can perform from a Linked List:
     - Remove an element at the back
 """
 
+# asdf
+
 """
 Create Linked List
 ___repr___ to print(return the information we need)
